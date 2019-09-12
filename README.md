@@ -1,2 +1,2 @@
 # Data-Structures
-Data Structure Implementations and applications
+Data Structure Implementations and Applications
